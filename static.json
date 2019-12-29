@@ -1,7 +1,7 @@
 {
 	"root": "/",
 	"clean_urls": true,
-	"canonical_host": "luciddreams.herokuapp.com",
+	"canonical_host": "${HOST}",
 	"routes": {
 		"/**": "index.html"
 	}
